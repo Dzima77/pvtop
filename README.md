@@ -16,10 +16,6 @@ This is only for consumer chains of the Cosmos Hub
 pvtop tcp://consumer:26657 tcp://provider:26657
 ```
 
-## Example
-
-![example](img/pvtop.svg)
-
 ## Install
 
 ```
